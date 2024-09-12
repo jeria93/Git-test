@@ -3,6 +3,7 @@
 public class Main {
     public static void main(String[] args) {
 
+        String[] names = {"Nicholas", "Selma", "Jennifer"};
         int age = 10;
         System.out.println(age);
         String name = "John";
